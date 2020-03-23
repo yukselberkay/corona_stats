@@ -1,7 +1,9 @@
 # corona_stats
 ### Dependencies
+```
 pip install requests
 pip install argparse
+```
 
 
 
